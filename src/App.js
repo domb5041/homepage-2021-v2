@@ -93,7 +93,7 @@ export default function App() {
                 </button>
                 <div>
                     {slide === 0 ? (
-                        'HIT THE RIGHT ARROW-KEY TO BEGIN'
+                        'BROWSE WITH THE ARROW-KEYS'
                     ) : (
                         <>
                             {slide}/{projects.length - 1}

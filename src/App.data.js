@@ -5,9 +5,9 @@ export default [
             linkedin: 'https://www.linkedin.com/in/dominic-butler-816b31119',
             instagram: 'https://www.instagram.com/dombutlerpad/',
         },
-        text: 'Welcome! In the following independant projects I explore themes, technologies and ideas that inspire me. Find out more about me and my industry experience above.',
+        text: "Hi, welcome to my portfolio site! The following slides link to some side projects I've had fun working on recently. You can find out more about me and my industry experience through the links above.",
         image: 'dom.jpg',
-        color: '#FFD399',
+        color: '#FFAD99',
     },
     {
         url: {
@@ -16,7 +16,7 @@ export default [
         },
         text: 'A fully customisable modular clock with an array of possible complications.',
         image: 'clock.jpg',
-        color: '#F96965',
+        color: '#FFD399',
     },
     {
         url: {
