@@ -11,7 +11,7 @@ export default [
     },
     {
         url: {
-            project: 'https://modular-clock.herokuapp.com',
+            project: 'https://modular-clock.onrender.com',
             code: 'https://github.com/domb5041/modular-clock',
         },
         text: 'A fully customisable modular clock with an array of possible complications.',
@@ -20,7 +20,7 @@ export default [
     },
     {
         url: {
-            project: 'https://doms-desktop.herokuapp.com',
+            project: 'https://doms-desktop.onrender.com',
             code: 'https://github.com/domb5041/doms-desktop',
         },
         text: 'A replica mac desktop. It works just like the real thing. Interact with folders, windows, the menu bar and more.',
