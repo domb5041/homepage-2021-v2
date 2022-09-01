@@ -20,7 +20,7 @@ export default [
     },
     {
         url: {
-            project: 'https://doms-desktop.onrender.com',
+            project: 'https://dominicbutler.work/doms-desktop',
             code: 'https://github.com/domb5041/doms-desktop',
         },
         text: 'A replica mac desktop. It works just like the real thing. Interact with folders, windows, the menu bar and more.',
