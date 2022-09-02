@@ -11,7 +11,7 @@ export default [
     },
     {
         url: {
-            project: 'https://modular-clock.onrender.com',
+            project: 'https://dominicbutler.work/modular-clock',
             code: 'https://github.com/domb5041/modular-clock',
         },
         text: 'A fully customisable modular clock with an array of possible complications.',
