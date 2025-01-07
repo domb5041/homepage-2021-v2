@@ -5,8 +5,8 @@ export default [
             linkedin: "https://www.linkedin.com/in/dominic-butler-816b31119",
             instagram: "https://www.instagram.com/dombutlerpad/",
         },
-        text: "Hi, welcome to my portfolio site! The following slides link to some side projects I've had fun working on recently. You can find out more about me and my industry experience through the links above.",
-        image: "dom.jpg",
+        text: "Hi, welcome to my portfolio - The following slides link to some small projects I've worked on in my own time. You can find out more about me and my industry experience through the links above.",
+        image: "dom.jpeg",
         color: "#FFAD99",
     },
     {
